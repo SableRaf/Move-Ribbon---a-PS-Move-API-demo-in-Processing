@@ -24,7 +24,7 @@ Calibration on Mac OS X with iSight/Facetime camera:
 - The sphere starts blinking in its tracking color: move the controller further from the camera and keep it still
 - The sketch should start after a few seconds. If the sphere keeps blinking for more than 15 seconds, stop the sketch and try again. Rebooting can help too.
 
-*/
+*/  
 
 boolean TESTING = false;
 int ribbonAmount = 5;
@@ -38,6 +38,7 @@ void setup()
 {
   size(640, 480);
   //size(screenWidth, screenHeight);
+  //size(displayWidth, displayHeight); // Processing 2.0 and up
   //noCursor();
   frameRate(30);
   background(0);
