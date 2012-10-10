@@ -2,6 +2,7 @@
  Move Ribbons Demo by Raphaël de Courville
 
  This sketch demonstrates how to implement tracking with the PS Move API in Processing
+ See video demonstration: https://vimeo.com/51133900
 
  Ribbon code by James Alliban (http://jamesalliban.wordpress.com/2008/12/04/2d-ribbons/)
  Original Ribbon code by Eric Natzke (http://jot.eriknatzke.com/)
